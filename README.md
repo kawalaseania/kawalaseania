@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tarnue Pythagoras Borbor</h1>
 <h3 align="center">A passionate Software Engineer from Liberia</h3>
-
+<img width="100%" height="auto" src="https://thumbs.gfycat.com/ConsiderateSandyDanishswedishfarmdog-max-1mb.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kawalaseania&label=Profile%20views&color=0e75b6&style=flat" alt="kawalaseania" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kawalaseania" alt="kawalaseania" /></a> </p>
